@@ -9,7 +9,7 @@ Using:
 - Jest and Selenium
 
 - Use a project management tool (GitHub Projects, Trello, etc.) to plan
-- 
+  
 - Write unit tests for your components using Jest and Enzyme
 
 - Write end-to-end tests for application
