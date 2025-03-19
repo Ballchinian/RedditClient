@@ -1,12 +1,15 @@
 v# RedditClient
 
 Using:
+
 - HTML
 - CSS
 - JavaScript
 - React
 - Redux
 - Jest and Selenium
+
+Planning to Do:
 
 - Use a project management tool (GitHub Projects, Trello, etc.) to plan
   
